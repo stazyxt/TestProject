@@ -1,9 +1,9 @@
-.container{
-    display:flex;
-
+.container {
+    display: flex;
 }
-.p{
+
+p {
     display: block;
-    background-color: blue;
-    color:black;
+    background-color: rgb(135, 135, 193);
+    color: black;
 }
