@@ -1,0 +1,9 @@
+.container{
+    display:flex;
+
+}
+.p{
+    display: block;
+    background-color: blue;
+    color:black;
+}
